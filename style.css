@@ -1,8 +1,18 @@
 
-.h1{
-    color: white;
+.Resume-main {
+    color: goldenrod;
+    box-shadow: 10px 10px 20px black;
 }
 
-.body{
-    background-color: black;
+.krakken {
+    background: black;
+    margin-bottom: 20px;
 }
+
+.card-white{ 
+  background: goldenrod;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+  }
